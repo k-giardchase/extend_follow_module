@@ -1,0 +1,4 @@
+name = wv_custom Module
+description = Adding imdb to the follow module
+package = Custom
+core = 7.x
